@@ -1,0 +1,10 @@
+firstName; lastName; birthYear; key; id; email; subjects[];
+Christian;Trip;1987;1;chrtr870;chrtr870@stud.kea.dk;Computer Science;Organisation;Design;Teknologi;
+Peter;Falk;1966;10;petfa660;petfa660@teach.kea.dk;Design;
+Johnny;Deep;1977;1;johde771;johde771@teach.kea.dk;Computer Science;Organisation;
+Troels;Jensen;1977;10;troje772;troje772@teach.kea.dk;
+George;Kendell;1967;3;geoke671;geoke671@stud.kea.dk;
+Harry;Potter;1993;1;harpo932;harpo932@stud.kea.dk;Computer Science;Design;
+Robin;Hood;1956;8;robho563;robho563@stud.kea.dk;Computer Science;
+Niels;Petersen;1996;10;niepe964;niepe964@stud.kea.dk;Design;
+Niel;Alan;1999;7;nieal995;nieal995@stud.kea.dk;
